@@ -1,13 +1,8 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": [
+  "profiles": [
     { "id": 1, "name": "jose", "age": 21 },
     { "id": 2, "name": "beatriz", "age": 21 },
-    { "id": 3, "name": "sonia", "age": 41 }
+    { "id": 3, "name": "kelly", "age": 23 },
+    { "id": 4, "name": "sonia", "age": 53 }
   ]
 }
