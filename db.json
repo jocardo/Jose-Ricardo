@@ -1,5 +1,6 @@
 {
   "profiles": [
+    { "id": 2, "name": "bruno", "setor": "ti", "ramal": 9662, "email": "brunodejesus@congeladosdasonia.com.br" },
     { "id": 2, "name": "beatriz", "age": 21 },
     { "id": 3, "name": "kelly", "age": 23 },
     { "id": 4, "name": "sonia", "age": 53 }
