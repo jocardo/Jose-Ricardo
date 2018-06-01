@@ -1,6 +1,6 @@
 {
   "profiles": [
-    { "id": 1, "name": "bruno", "setor": "ti", "ramal": "9662"  },
+    { "id": 1, "name": "bruno", "age": 32 },
     { "id": 2, "name": "beatriz", "age": 21 },
     { "id": 3, "name": "kelly", "age": 23 },
     { "id": 4, "name": "sonia", "age": 53 }
