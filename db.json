@@ -1,5 +1,11 @@
 {
-  "profiles": [
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": 
     { "id": 1, "name": "jose", "age": 21 },
     { "id": 2, "name": "beatriz", "age": 21 },
     { "id": 3, "name": "sonia", "age": 41 }
